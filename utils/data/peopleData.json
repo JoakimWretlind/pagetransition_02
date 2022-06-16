@@ -1,0 +1,136 @@
+{
+    "peoples": [
+        {
+            "id": "jakeGyllenhaal",
+            "name": "jg",
+            "title": "jake gyllenhaal",
+            "firstName": "jake",
+            "lastName": "gyllenhaal",
+            "src": "/images/portraits/jg_01.png",
+            "src2": "/images/portraits/jg_02.png",
+            "src3": "/images/portraits/jg_03.png",
+            "description": "Jacob Benjamin Gyllenhaal (born December 19, 1980) is an American actor. Born into the Gyllenhaal family, he is the son of director Stephen Gyllenhaal and screenwriter Naomi Foner; his older sister is actress Maggie Gyllenhaal. He began acting as a child, making his acting debut in City Slickers (1991), followed by roles in his father's films A Dangerous Woman (1993) and Homegrown (1998)."
+        },
+        {
+            "id": "johnnyDepp",
+            "name": "jd",
+            "title": "johnny depp",
+            "firstName": "johnny",
+            "lastName": "depp",
+            "src": "/images/portraits/jd_01.png",
+            "src2": "/images/portraits/jd_02.png",
+            "src3": "/images/portraits/jd_03.png",
+            "description": "John Christopher Depp II (born June 9, 1963) is an American actor, producer and musician. He is the recipient of multiple accolades, including a Golden Globe Award and a Screen Actors Guild Award, in addition to nominations for three Academy Awards and two BAFTAs."
+        },
+        {
+            "id": "keiraKnightley",
+            "name": "kk",
+            "title": "keira knightley",
+            "firstName": "keira",
+            "lastName": "knightley",
+            "src": "/images/portraits/kk_01.png",
+            "src2": "/images/portraits/kk_02.png",
+            "src3": "/images/portraits/kk_03.png",
+            "description": "Keira Christina Righton OBE (Knightley, born 26 March 1985) is an English actress. Known for her work in both independent films and blockbusters, particularly period dramas, she has received several accolades, including nominations for two Academy Awards, three British Academy Film Awards, and a Laurence Olivier Award."
+        },
+        {
+            "id": "daveGrohl",
+            "name": "dg",
+            "title": "dave groh",
+            "firstName": "dave",
+            "lastName": "grohl",
+            "src": "/images/portraits/dg_01.png",
+            "src2": "/images/portraits/dg_02.png",
+            "src3": "/images/portraits/dg_03.png",
+            "description": "David Eric Grohl (born January 14, 1969) is an American musician, songwriter and record producer. He is the founder of Foo Fighters, for whom he is the singer, guitarist, and primary songwriter. He was the drummer for Nirvana from 1990 to 1994"
+        },
+        {
+            "id": "umaThurman",
+            "name": "ut",
+            "title": "uma thurman",
+            "firstName": "uma",
+            "lastName": "thurman",
+            "src": "/images/portraits/ut_01.png",
+            "src2": "/images/portraits/ut_02.png",
+            "src3": "/images/portraits/ut_03.png",
+            "description": "Uma Karuna Thurman (born April 29, 1970) is an American actress, producer and fashion model. Prolific in film and television productions encompassing a variety of genres, she had her breakthrough in Dangerous Liaisons (1988), following appearances on the December 1985 and May 1986 covers of British Vogue."
+        },
+        {
+            "id": "denzelWashington",
+            "name": "dw",
+            "title": "denzel washington",
+            "firstName": "denzel",
+            "lastName": "washington",
+            "src": "/images/portraits/dw_01.png",
+            "src2": "/images/portraits/dw_02.png",
+            "src3": "/images/portraits/dw_03.png",
+            "description": "Denzel Hayes Washington Jr. (born December 28, 1954) is an American actor, director, and producer. Known for his performances on the screen and stage, he has been described as an actor who reconfigured 'the concept of classic movie stardom'.He is also known for his frequent collaborations with directors Spike Lee, Antoine Fuqua, and Tony Scott."
+        },
+        {
+            "id": "joaquinPhoenix",
+            "name": "jp",
+            "title": "joaquin phoenix",
+            "firstName": "joaquin",
+            "lastName": "phoenix",
+            "src": "/images/portraits/jp_01.png",
+            "src2": "/images/portraits/jp_02.png",
+            "src3": "/images/portraits/jp_03.png",
+            "description": "Joaquin Rafael Phoenix Bottom; born October 28, 1974) is an American actor. Known for playing dark and unconventional characters in independent films, he has received various accolades, including an Academy Award, a British Academy Film Award, a Grammy Award, and two Golden Globe Awards. In 2020, The New York Times named him one of the greatest actors of the 21st century."
+        },
+        {
+            "id": "hughJackman",
+            "name": "hj",
+            "title": "hugh jackman",
+            "firstName": "hugh",
+            "lastName": "jackman",
+            "src": "/images/portraits/hj_01.png",
+            "src2": "/images/portraits/hj_02.png",
+            "src3": "/images/portraits/hj_03.png",
+            "description": "Hugh Michael Jackman AC (born 12 October 1968) is an Australian actor. Beginning in theatre and television, he landed his breakthrough role as James 'Logan' Howlett / Wolverine in the X-Men film series (2000–2017), a role that earned him the Guinness World Record for 'longest career as a live- action Marvel character', until his record was surpassed in 2021."
+        },
+        {
+            "id": "kristenStewart",
+            "name": "ks",
+            "title": "kristen stewart",
+            "firstName": "kirsten",
+            "lastName": "stewart",
+            "src": "/images/portraits/ks_01.png",
+            "src2": "/images/portraits/ks_02.png",
+            "src3": "/images/portraits/ks_03.png",
+            "description": "Kristen Jaymes Stewart (born April 9, 1990) is an American actress and filmmaker. The world's highest-paid actress in 2012, she has received various accolades, including a British Academy Film Award and a César Award, in addition to nominations for an Academy Award and a Golden Globe Award."
+        },
+        {
+            "id": "jodieFoster",
+            "name": "jf",
+            "title": "jodie foster",
+            "firstName": "jodie",
+            "lastName": "foster",
+            "src": "/images/portraits/jf_01.png",
+            "src2": "/images/portraits/jf_02.png",
+            "src3": "/images/portraits/jf_03.png",
+            "description": "Alicia Christian 'Jodie' Foster (born November 19, 1962) is an American actress, director, and producer.[1][2] She is the recipient of numerous accolades, including two Academy Awards, three British Academy Film Awards, three Golden Globe Awards, and the honorary Cecil B. DeMille Award."
+        },
+        {
+            "id": "keanuReeves",
+            "name": "kr",
+            "title": "keanu reeves",
+            "firstName": "keanu",
+            "lastName": "reeves",
+            "src": "/images/portraits/kr_01.png",
+            "src2": "/images/portraits/kr_02.png",
+            "src3": "/images/portraits/kr_03.png",
+            "description": "Keanu Charles Reeves born September 2, 1964) is a Canadian actor. Born in Beirut and raised in Toronto, Reeves began acting in theatre productions and in television films before making his feature film debut in Youngblood (1986). He had his breakthrough role in the science fiction comedy Bill & Ted's Excellent Adventure (1989), and he reprised his role in its sequels."
+        },
+        {
+            "id": "ursulaCorbero",
+            "name": "uc",
+            "title": "úrsula corberó",
+            "firstName": "úrsula",
+            "lastName": "corberó",
+            "src": "/images/portraits/uc_01.png",
+            "src2": "/images/portraits/uc_02.png",
+            "src3": "/images/portraits/uc_03.png",
+            "description": "Úrsula Corberó Delgado (born 11 August 1989) is a Spanish actress and model. She is best known for her roles as Ruth Gómez in Física o química (2008–2010), Margarita de Austria in the television series Isabel (2014) and Marta in the comedy film Cómo Sobrevivir a una Despedida (2015). She gained international fame after her role as Tokyo in the Antena 3 (later, Netflix) series Money Heist and made her Hollywood debut in the superhero film Snake Eyes (2021)."
+        }
+    ]
+}

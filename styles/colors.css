@@ -1,0 +1,19 @@
+div{
+    color: rgb(238, 238, 238);
+}
+
+/*
+if (typeof screen.orientation !== 'undefined') { ... }
+
+
+
+if( isMobile.any() ) alert('Mobile');
+
+
+
+var isMobile = /iPhone|iPad|iPod|Android/i.test(navigator.userAgent);
+if (isMobile) {
+  // your code here 
+}
+
+*/
