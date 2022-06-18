@@ -14,10 +14,10 @@ export const HeaderAnimation2 = ({ title }) => {
         visible: {
             x: 0,
             transition: {
-                duration: 2,
+                duration: 1.2,
                 delay: 0.5,
                 when: "beforeChildren",
-                staggerChildren: .13
+                staggerChildren: .12
             }
         }
     }
