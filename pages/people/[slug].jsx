@@ -2,7 +2,9 @@ import path from 'path'
 import fs from 'fs/promises'
 import { gsap } from 'gsap'
 import { ScrollTrigger } from "gsap/dist/ScrollTrigger";
-import { SlugWrapper, ImgLanding, NameContainer, H1, P, Img1, Img3, TextContainer } from '../../components/peopleSection/slugPage/styles'
+import { SlugWrapper, ImgLanding, NameContainer, P, Img1, Img3 } from '../../components/peopleSection/slugPage/styles'
+import { HeaderAnimation } from '../../components/animations/headerAnimation';
+import { HeaderAnimation2 } from '../../components/animations/headerAnimation2';
 
 gsap.registerPlugin(ScrollTrigger)
 
@@ -19,13 +21,14 @@ const PeopleDetails = (props) => {
                 <ImgLanding
                     src={loadedPerson.src}
                     alt={loadedPerson.title} />
-                {/* <NameContainer>
-                    <H1>{loadedPerson.firstName}</H1>
-                    <H1>{loadedPerson.lastName}</H1>
+                <NameContainer>
+                    {/* <H1>{loadedPerson.firstName}</H1> */}
+                    <HeaderAnimation title={loadedPerson.firstName} />
+                    <HeaderAnimation2 title={loadedPerson.lastName} />
                     <P>{loadedPerson.description}</P>
                 </NameContainer>
                 <Img1 src={loadedPerson.src2} alt={loadedPerson.title} />
-                <Img3 src={loadedPerson.src3} alt={loadedPerson.title} /> */}
+                <Img3 src={loadedPerson.src3} alt={loadedPerson.title} />
             </SlugWrapper>
         </div >
     )

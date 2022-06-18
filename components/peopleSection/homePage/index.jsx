@@ -69,7 +69,7 @@ export const HomePage = ({ peoples }) => {
                                             pathname: "/people/[id]",
                                             query: { id: id }
                                         })
-                                    }, 900)
+                                    }, 1000)
                                 }}
                                 className={`img ${idx === isActive && 'active'}`}
                             />

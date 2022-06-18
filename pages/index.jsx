@@ -1,3 +1,4 @@
+import Head from 'next/head'
 import path from 'path'
 import fs from 'fs/promises';
 import { HomePage } from "../components/peopleSection/homePage"
@@ -5,6 +6,11 @@ import { HomePage } from "../components/peopleSection/homePage"
 export default function Home({ peoples }) {
   return (
     <>
+      <Head>
+        <title>Page Transition</title>
+        <meta name="PageTransition" content="Routing, Transition" />
+        <link rel="icon" href="/logo.png" />
+      </Head>
       <HomePage peoples={peoples} />
     </>
   )

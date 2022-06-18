@@ -2,7 +2,7 @@ import styled, { keyframes } from 'styled-components';
 
 export const SlugWrapper = styled.div`
     height: 100vh;
-    width: 200%;
+    width: 100%;
     overflow-y: hidden;
     display: flex;
 `;
@@ -10,6 +10,8 @@ export const SlugWrapper = styled.div`
 const imgStarter = keyframes`
     0%{
         height: 30vh;
+        left: 50%;
+        transform: translate(-50%, -50%);
     }
     40%{
         height: 100vh;
@@ -76,9 +78,8 @@ export const Img1 = styled.img`
 
 export const Img3 = styled.img`
     height: 30vh;
-    width: 100%;
+    object-fit: cover;
     margin-top: 0;
 `;
-
 
 

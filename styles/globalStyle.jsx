@@ -25,9 +25,9 @@ export const GlobalStyle = createGlobalStyle`
     }
 
     // remove scrollbar
-    ::-webkit-scrollbar {
+    /* ::-webkit-scrollbar {
         display: none;
-    }
+    } */
     
     a {
       text-decoration: none;
