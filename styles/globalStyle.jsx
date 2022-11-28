@@ -1,4 +1,4 @@
-import { createGlobalStyle } from 'styled-components';
+import { createGlobalStyle } from "styled-components";
 
 export const GlobalStyle = createGlobalStyle`
 @font-face {
@@ -25,9 +25,9 @@ export const GlobalStyle = createGlobalStyle`
     }
 
     // remove scrollbar
-    /* ::-webkit-scrollbar {
+    ::-webkit-scrollbar {
         display: none;
-    } */
+    }
     
     a {
       text-decoration: none;

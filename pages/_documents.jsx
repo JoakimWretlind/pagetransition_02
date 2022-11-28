@@ -32,6 +32,12 @@ export default class MyDocument extends Document {
             <Html lang="en">
                 <Head>
                     <link href="https://fonts.googleapis.com/css2?family=Lato:wght@100;300;400;700;900&family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap" rel="stylesheet" />
+                    <script
+                        type="text/javascript"
+                        src="https://unpkg.com/lodash@4.17.20/lodash.js"
+                        strategy="beforeInteractive"
+                        defer
+                    ></script>
                 </Head>
                 <body>
                     <Main />
