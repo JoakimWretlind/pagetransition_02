@@ -1,9 +1,6 @@
 ## About
 
-This project has been growing, and still is.
-</br>
-It started with just the first animation where the images stacks. Then I thought it could be a page-transition. And maybe some text. And more images... yaeh, we'll see where it ends.
-</br>
+A pagetranstion project...
 
 ## Tech Used
 
