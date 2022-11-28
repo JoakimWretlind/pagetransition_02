@@ -1,10 +1,12 @@
 ## About
+
 This project has been growing, and still is.
 </br>
 It started with just the first animation where the images stacks. Then I thought it could be a page-transition. And maybe some text. And more images... yaeh, we'll see where it ends.
 </br>
 
 ## Tech Used
+
 <img align="left" src="https://img.shields.io/badge/-Next.JS-white?style=for-the-badge&logo=next.js&logoColor=000000" />
 </br>
 </br>
@@ -17,9 +19,8 @@ It started with just the first animation where the images stacks. Then I thought
 </br>
 
 ## Live Version
-[demo](https://pagetransition02.vercel.app)
 
-----
+---
 
 ## Getting Started
 
@@ -36,7 +37,8 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 ---
 
 ## How It Works
-* Aninmation-delay between pages: In the components/peopleSection/homePage/index => Img -> onClick -> setTimeout.
-* Keyframes for the growth and placement of the first image.
-* Gsap for the stacking of the images.
-* Framer motion for the header animation.
+
+- Aninmation-delay between pages: In the components/peopleSection/homePage/index => Img -> onClick -> setTimeout.
+- Keyframes for the growth and placement of the first image.
+- Gsap for the stacking of the images.
+- Framer motion for the header animation.
