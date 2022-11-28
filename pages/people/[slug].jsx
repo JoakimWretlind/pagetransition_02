@@ -38,10 +38,6 @@ const PeopleDetails = (props) => {
     tl.to(imgThree, 2, { opacity: 1, ease: sine }, "-=2.4");
   }, []);
 
-  if (!loadedPerson) {
-    return <p>Loading...</p>;
-  }
-
   // Horizontal scroll
   useEffect(() => {
     containerRef.current = window.innerWidth;
@@ -55,6 +51,10 @@ const PeopleDetails = (props) => {
       },
     });
   }, []);
+
+  if (!loadedPerson) {
+    return <p>Loading...</p>;
+  }
 
   return (
     <SlugWrapper className="container" ref={containerRef}>
